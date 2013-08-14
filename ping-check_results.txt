@@ -1,0 +1,176 @@
+PING borghesenailcare.com (204.12.13.115) 56(84) bytes of data.
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=1 ttl=242 time=36.2 ms
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=2 ttl=242 time=36.5 ms
+
+--- borghesenailcare.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 36.290/36.399/36.508/0.109 ms
+PING dellabs.com (204.12.13.115) 56(84) bytes of data.
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=1 ttl=242 time=36.4 ms
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=2 ttl=242 time=36.4 ms
+
+--- dellabs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.411/36.426/36.441/0.015 ms
+PING sallyhansen.com (204.12.13.115) 56(84) bytes of data.
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=1 ttl=242 time=36.2 ms
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=2 ttl=242 time=36.4 ms
+
+--- sallyhansen.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.233/36.348/36.463/0.115 ms
+PING sallyhansennaturalbeauty.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.6 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.2 ms
+
+--- sallyhansennaturalbeauty.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.264/36.459/36.655/0.273 ms
+PING lancaster-beauty.com.cn (204.12.13.115) 56(84) bytes of data.
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=1 ttl=242 time=36.2 ms
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=2 ttl=242 time=36.7 ms
+
+--- lancaster-beauty.com.cn ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.291/36.500/36.710/0.283 ms
+PING jovansexy.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.2 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.4 ms
+
+--- jovansexy.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.228/36.340/36.452/0.112 ms
+PING faithhillfragrances.com (204.12.13.115) 56(84) bytes of data.
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=1 ttl=242 time=36.1 ms
+64 bytes from completesalonmanicure.com (204.12.13.115): icmp_req=2 ttl=242 time=36.4 ms
+
+--- faithhillfragrances.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.195/36.305/36.416/0.220 ms
+PING cotyinstitute.com (204.12.99.14) 56(84) bytes of data.
+64 bytes from mail.cotymail.com (204.12.99.14): icmp_req=1 ttl=113 time=38.2 ms
+64 bytes from mail.cotymail.com (204.12.99.14): icmp_req=2 ttl=113 time=37.5 ms
+
+--- cotyinstitute.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 37.571/37.927/38.284/0.406 ms
+PING lancaster-beauty.com.sg (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.1 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.3 ms
+
+--- lancaster-beauty.com.sg ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.189/36.258/36.328/0.202 ms
+PING balenciagafragrance.com (204.12.98.220) 56(84) bytes of data.
+64 bytes from 204.12.98.220: icmp_req=1 ttl=242 time=36.3 ms
+64 bytes from 204.12.98.220: icmp_req=2 ttl=242 time=36.2 ms
+
+--- balenciagafragrance.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 5039ms
+rtt min/avg/max/mdev = 36.220/36.289/36.358/0.069 ms
+PING babyphatfragrances.com (72.13.32.43) 56(84) bytes of data.
+64 bytes from dnsassurancesolutions.com (72.13.32.43): icmp_req=1 ttl=53 time=41.5 ms
+64 bytes from dnsassurancesolutions.com (72.13.32.43): icmp_req=2 ttl=53 time=41.4 ms
+
+--- babyphatfragrances.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 41.430/41.470/41.510/0.040 ms
+PING cotybeautypass.com (204.12.36.66) 56(84) bytes of data.
+
+--- cotybeautypass.com ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1006ms
+
+PING lancasterus.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.3 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.3 ms
+
+--- lancasterus.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.316/36.336/36.356/0.020 ms
+PING jenniferlopezbeauty.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.2 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.2 ms
+
+--- jenniferlopezbeauty.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.213/36.243/36.273/0.030 ms
+PING mimundocoty.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.3 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.3 ms
+
+--- mimundocoty.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.301/36.323/36.346/0.191 ms
+PING balenciaga-fragrance.com (188.165.162.42) 56(84) bytes of data.
+64 bytes from eole.iptwins.com (188.165.162.42): icmp_req=1 ttl=47 time=106 ms
+64 bytes from eole.iptwins.com (188.165.162.42): icmp_req=2 ttl=47 time=106 ms
+
+--- balenciaga-fragrance.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 106.510/106.688/106.866/0.178 ms
+PING balenciaga-perfume.com (188.165.162.42) 56(84) bytes of data.
+64 bytes from eole.iptwins.com (188.165.162.42): icmp_req=1 ttl=47 time=106 ms
+64 bytes from eole.iptwins.com (188.165.162.42): icmp_req=2 ttl=47 time=106 ms
+
+--- balenciaga-perfume.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 106.605/106.697/106.790/0.339 ms
+PING storelocator.coty.com (204.12.13.212) 56(84) bytes of data.
+64 bytes from 204.12.13.212: icmp_req=1 ttl=242 time=36.4 ms
+64 bytes from 204.12.13.212: icmp_req=2 ttl=242 time=36.8 ms
+
+--- storelocator.coty.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 5039ms
+rtt min/avg/max/mdev = 36.454/36.634/36.815/0.263 ms
+PING facebook.beckham-fragrances.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.1 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.7 ms
+
+--- facebook.beckham-fragrances.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.192/36.479/36.766/0.287 ms
+PING retinology-theproof.com (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.2 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.2 ms
+
+--- retinology-theproof.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.285/36.287/36.290/0.190 ms
+PING www.retinology-laprueba.es (212.23.173.164) 56(84) bytes of data.
+
+--- www.retinology-laprueba.es ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1008ms
+
+PING retinology-lapreuve.fr (204.12.13.123) 56(84) bytes of data.
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=1 ttl=242 time=36.1 ms
+64 bytes from dellaboratories.com (204.12.13.123): icmp_req=2 ttl=242 time=36.2 ms
+
+--- retinology-lapreuve.fr ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 36.187/36.209/36.231/0.022 ms
+PING www.retinology-laprova.it (212.23.173.164) 56(84) bytes of data.
+
+--- www.retinology-laprova.it ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1006ms
+
+PING www.opi.com (50.56.133.54) 56(84) bytes of data.
+64 bytes from 50.56.133.54: icmp_req=1 ttl=54 time=2.22 ms
+64 bytes from 50.56.133.54: icmp_req=2 ttl=54 time=2.26 ms
+
+--- www.opi.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 5063ms
+rtt min/avg/max/mdev = 2.222/2.241/2.261/0.051 ms
+PING m.opi.com (50.56.133.54) 56(84) bytes of data.
+64 bytes from 50.56.133.54: icmp_req=1 ttl=54 time=2.24 ms
+64 bytes from 50.56.133.54: icmp_req=2 ttl=54 time=2.21 ms
+
+--- m.opi.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 2.215/2.230/2.246/0.049 ms
+PING social.opi.com (50.56.133.54) 56(84) bytes of data.
+64 bytes from 50.56.133.54: icmp_req=1 ttl=54 time=2.19 ms
+64 bytes from 50.56.133.54: icmp_req=2 ttl=54 time=2.24 ms
+
+--- social.opi.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 2.194/2.221/2.249/0.054 ms
